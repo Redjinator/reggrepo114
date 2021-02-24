@@ -95,7 +95,6 @@ There are 3 screen/activities for this app.<br>
 **App Choosen:** Bitcoin Checker<br>
 
 **The following events are those I am fairly confident are part of the app.**
-- onLongClick()	
 
 Event | Description
 ------------ | -------------
@@ -121,7 +120,23 @@ From the Choose Exchange screen, the Activity will automatically change to the c
 Finally on the coin selection details screen, you can hit the checkmark to finish and return to the primary or main screen. 
 
 No swiping is possible from any screens, however there is a hierarchy to the activities as the main activity is dependent on the information choosen on the other 2 screen. Screens must be accessed linearly and in order regardless of direction.
+<br><br>
 
 
+#**ACTIVITY 0403** <br>
+**Description:** Characteristics and uses of the bottom app bar.
+- Displays navigation and key actions.
+- Provides access to a bottom nav drawer and up to 4 actions, including the floating action btn.
+- Highlights important screen actions and draw focus to the floating action button.
+- Available actions can changed based on the needs of the screen.
+- Is easily reached from a handheld position.
+- Is mobile oriented as it would feel clunky on a desktop app.
+- Can be used in conjuction with the top app bar
+<br>
 
-
+**Description:** Characteristics and uses of the top app bar.
+- The top app bar provides content and actions related to the current screen. It’s used for branding, screen titles, navigation, and actions.
+- Can disappear with scrolling
+- Provide a reliable way to guide users through an app.
+- Have a consistent position and content to increase familiarity.
+- Can form into a contextual action bar which provides actions for selected items until an action is taken or dismissed by the user.
