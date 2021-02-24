@@ -39,18 +39,18 @@ This is my home security system app which I feel is a good example of a better i
 Description: The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
 
 ##Permissions<br>
-*Storage - Read contents of SD card
-*Storage - Modify contents of SD card
-*Have full network access
-*view network connections
-*control vibration
-*run at start up
-*prevent phone from sleeping
-*change audio settings
+-Storage - Read contents of SD card
+-Storage - Modify contents of SD card
+-Have full network access
+-view network connections
+-control vibration
+-run at start up
+-prevent phone from sleeping
+-change audio settings
 
 ##Features<br>
-*android.hardware.audio.output
-*android.hardware.screen.portrait
-*android.hardware.touchscreen
-*android.hardware.wifi.direct
-*android.software.app_widgets
+-android.hardware.audio.output
+-android.hardware.screen.portrait
+-android.hardware.touchscreen
+-android.hardware.wifi.direct
+-android.software.app_widgets
