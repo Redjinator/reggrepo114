@@ -140,3 +140,29 @@ No swiping is possible from any screens, however there is a hierarchy to the act
 - Provide a reliable way to guide users through an app.
 - Have a consistent position and content to increase familiarity.
 - Can form into a contextual action bar which provides actions for selected items until an action is taken or dismissed by the user.
+<br><br>
+
+
+
+#**ACTIVITY 0501** <br>
+**Description:** Characterize the app's navigational model (similar to activity 0401), but in this case you will draw a diagrammatic representation of the navigation. You may use the same app chosen for activity 0401. Include an image of your drawing in your Process Portfolio and briefly describe what you have learned from this activity.<br>
+
+**App Choosen:** Bitcoin Checker<br>
+![Navigation Diagram](/navigationDiagram.png)<br>
+
+I had a hard time with this one as I didn't feel that I learned anything by this activity, however my perception of the activity may have been wrong. I meant to revisit this before markup and upload but didn't unfortunately. 
+
+My only real thought coming out of this activity would be that it helps when designing your MVP. However I have a feeling that's not the case here as we just went over this topic in DGL 111. So apologies if this one is a bit from left field like I think it is.
+<br><br>
+
+
+
+#**ACTIVITY 0503** <br>
+**Description:** Carefully consider when the use of dialogs is apropriate and summerize any findings.
+
+I found this article very enlightening actually, the information seems like it would be intuitive since it makes sense as I read it, but much of it was new to me.
+
+The article more or less describes using modal dialogs as a problem solving tool that requires decision by the user, giving modal dialogs an important and critical role. The article basically lays out that the use of dialog modals for aesthetic purposes or visually centered purposes is a bad idea, and rightly so given how disruptive a dialog is to whatever app your running. This intentional interruption was designed with the idea that the information or decision requiring the user's interaction is critical, therefor use of dialogs outside of this premise would be interfering with user control on a level that isn't warranted.
+
+
+
