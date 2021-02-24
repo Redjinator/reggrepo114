@@ -94,10 +94,14 @@ There are 3 screen/activities for this app.<br>
 **The following events are those I am fairly confident are part of the app.**
 - onLongClick()	
 
-First Header | Second Header
+Event | Description
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+onClick() | Found on the majority buttons throughout all different activities.
+onLongClick() | Fires when touching the screen.
+onKey() | Fires during data entry from an on screen keyboard.
+onDrag() |Fires when rearranging the stacked elements on the first screen.
+Extra | There must be an event for watching price changes of external information, but I'm not finding anything on developer.android.com that seems to fit this criteria.
+
 
 
 
