@@ -103,10 +103,10 @@ onLongClick() | Fires when touching the screen.
 onKey() | Fires during data entry from an on screen keyboard.
 onDrag() |Fires when rearranging the stacked elements on the first screen.
 Extra | There must be an event for watching price changes of external information, but I'm not finding anything on developer.android.com that seems to fit this criteria.
+
+
+
 <br><br>
-
-
-
 #**ACTIVITY 0401** <br>
 **Description:** Characterize the navigation model and examine how to traverse through different activities / screens.
 
