@@ -24,7 +24,7 @@ This is my home security system app which I feel is a good example of a better i
 - Purpose built objects and interactions are easily identified within the context they are being used.
 - Content layout is in a logical order or information hierarchy.
 - Restrain mobile content to only what the user needs, all the bells and whistles go to the actual website.
-
+<br>
 
 
 
@@ -38,7 +38,7 @@ This is my home security system app which I feel is a good example of a better i
 
 Description: The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
 
-#Permissions<br>
+#**Permissions**<br>
 - storage - Read contents of SD card.
 - storage - Modify contents of SD card.
 - have full network access.
@@ -48,9 +48,23 @@ Description: The app periodically updates prices of various crypto currencies fr
 - prevent phone from sleeping.
 - change audio settings.
 
-#Features<br>
+#**Features**<br>
 - android.hardware.audio.output.
 - android.hardware.screen.portrait.
 - android.hardware.touchscreen.
 - android.hardware.wifi.direct.
-- android.software.app_widgets.
+- android.software.app_widgets.<br>
+
+
+#**ACTIVITY 0202** <br>
+For this activity I read the article about the principles of sound at [Sound](https://material.io/design/sound/about-sound.html#principles)
+where the topic goes over how sound can provide positive feedback for a product.<br>
+
+With provided examples the article discusses how different sounds can influence the emotional state of the user which makes sense, if colors can do it, then surely sound can as well. It's not something I've really put a lot of time into before reading the article as my own projects have not required any sound up to this point.
+
+#**There are 3 types of sounds mentioned in the article**<br>
+- Sound Design
+- Music
+- Voice
+
+While the article continues to describe the sound types in more detail, it basically approaches sound much in the same that other visual design principles are, and that is to use sound to tell a story,  provide hierarchy, and increase the efficiency of communication and information in an intuitive way. 
