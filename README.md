@@ -10,6 +10,8 @@ I found the interface hard to look at with all the bright colors, there is too m
 ![Good Interface Example 2of2](/Security2.jpg) <br>
 **Lorex Security App Good Interface** <br>
 This is my home security system app which I feel is a good example of a better interface design. It's easy on the eyes and it's fairly obvious what the buttons do that are not named and the main screen is kept with as few options available as to keep it clean looking and extra features are available from the navicon in the upper left. The color scheme is also consistent with good contrast with the text.
+<br><br>
+
 
 #ACTIVITY 0102 <br>
 **Usable List**
@@ -24,7 +26,7 @@ This is my home security system app which I feel is a good example of a better i
 - Purpose built objects and interactions are easily identified within the context they are being used.
 - Content layout is in a logical order or information hierarchy.
 - Restrain mobile content to only what the user needs, all the bells and whistles go to the actual website.
-<br>
+<br><br>
 
 
 
@@ -53,7 +55,8 @@ This is my home security system app which I feel is a good example of a better i
 - android.hardware.screen.portrait.
 - android.hardware.touchscreen.
 - android.hardware.wifi.direct.
-- android.software.app_widgets.<br>
+- android.software.app_widgets.
+<br><br>
 
 
 #**ACTIVITY 0202** <br>
@@ -68,12 +71,12 @@ With provided examples the article discusses how different sounds can influence 
 - Voice
 
 While the article continues to describe the sound types in more detail, it basically approaches sound much in the same that other visual design principles are, and that is to use sound to tell a story,  provide hierarchy, and increase the efficiency of communication and information in an intuitive way. 
-<br>
 
 
 
 
 
+<br><br>
 #**ACTIVITY 0301** <br>
 **Description:** Try to identify all the activities or screens in a frequently used app and attempt to catagorize them in a meaningful way.
 
@@ -85,8 +88,8 @@ There are 3 screen/activities for this app.<br>
 - Plus button at the top of the 1st screen will bring you to the second activity/screen where you can choose from a list of exchanges.
 - Once you've choosen an exchange on the 2nd screen, your brought to a 3rd screen where you can decide which coin from that exchange will be in the tracking list and what currency it will be paired with. Alarms and notifications can also be configured on this screen.<br>
 
-
-#ACTIVITY 0302** <br>
+<br><br>
+#**ACTIVITY 0302** <br>
 **Description:** Identify common android event types from chapter 3.2 that may be present in my app of choice.
 
 **App Choosen:** Bitcoin Checker<br>
@@ -101,8 +104,23 @@ onLongClick() | Fires when touching the screen.
 onKey() | Fires during data entry from an on screen keyboard.
 onDrag() |Fires when rearranging the stacked elements on the first screen.
 Extra | There must be an event for watching price changes of external information, but I'm not finding anything on developer.android.com that seems to fit this criteria.
+<br><br>
 
 
+
+#**ACTIVITY 0401** <br>
+**Description:** Characterize the navigation model and examine how to traverse through different activities / screens.
+
+**App Choosen:** Bitcoin Checker<br>
+![Bitcoin Checker App](/btcChecker_3screens.png)<br>
+
+In the screenshots (above), the first page/Activity is brought up by opening up the app, from here we can get to the next Activity/Screen where we choose the exchange to use by hitting the "+" button in the top menu. 
+
+From the Choose Exchange screen, the Activity will automatically change to the coin selection details screen once an exchange has been selected. 
+
+Finally on the coin selection details screen, you can hit the checkmark to finish and return to the primary or main screen. 
+
+No swiping is possible from any screens, however there is a hierarchy to the activities as the main activity is dependent on the information choosen on the other 2 screen. Screens must be accessed linearly and in order regardless of direction.
 
 
 
