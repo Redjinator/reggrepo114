@@ -31,14 +31,14 @@ This is my home security system app which I feel is a good example of a better i
 
 
 
-#ACTIVITY 0201 <br>
+#**ACTIVITY 0201** <br>
 **App selected:** Bitcoin checker <br>
 ![BTC Checker 1of2](/btcChecker1.jpg)<br>
 ![BTC Checker 2of2](/btcChecker2.jpg)<br>
 
 Description: The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
 
-##Permissions<br>
+#Permissions<br>
 - storage - Read contents of SD card.
 - storage - Modify contents of SD card.
 - have full network access.
@@ -48,7 +48,7 @@ Description: The app periodically updates prices of various crypto currencies fr
 - prevent phone from sleeping.
 - change audio settings.
 
-##Features<br>
+#Features<br>
 - android.hardware.audio.output.
 - android.hardware.screen.portrait.
 - android.hardware.touchscreen.
