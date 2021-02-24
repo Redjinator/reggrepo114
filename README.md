@@ -25,6 +25,12 @@ This is my home security system app which I feel is a good example of a better i
 - Content layout is in a logical order or information hierarchy.
 - Restrain mobile content to only what the user needs, all the bells and whistles go to the actual website.
 
+
+
+
+
+
+
 #ACTIVITY 0201 <br>
 **App selected:** Bitcoin checker <br>
 ![Identify all the features and permissions associated with the app.](/btcChecker1.jpg)<br>
@@ -32,7 +38,7 @@ This is my home security system app which I feel is a good example of a better i
 
 Description: The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
 
-##Permissions
+##Permissions<br>
 *Storage - Read contents of SD card
 *Storage - Modify contents of SD card
 *Have full network access
@@ -42,7 +48,7 @@ Description: The app periodically updates prices of various crypto currencies fr
 *prevent phone from sleeping
 *change audio settings
 
-##Features
+##Features<br>
 *android.hardware.audio.output
 *android.hardware.screen.portrait
 *android.hardware.touchscreen
