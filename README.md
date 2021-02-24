@@ -148,7 +148,7 @@ No swiping is possible from any screens, however there is a hierarchy to the act
 **Description:** Characterize the app's navigational model (similar to activity 0401), but in this case you will draw a diagrammatic representation of the navigation. You may use the same app chosen for activity 0401. Include an image of your drawing in your Process Portfolio and briefly describe what you have learned from this activity.<br>
 
 **App Choosen:** Bitcoin Checker<br>
-![Navigation Diagram](/navigationDiagram.png)<br>
+![Navigation Diagram](/navDia.jpg)<br>
 
 I had a hard time with this one as I didn't feel that I learned anything by this activity, however my perception of the activity may have been wrong. I meant to revisit this before markup and upload but didn't unfortunately. 
 
