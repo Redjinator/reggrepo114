@@ -27,7 +27,9 @@ This is my home security system app which I feel is a good example of a better i
 
 #ACTIVITY 0201 <br>
 **App selected:** Bitcoin checker <br>
-![Identify all the features and permissions associated with the app.](/btcChecker1.jpg)(/btcChecker2.jpg) <br>
+![Identify all the features and permissions associated with the app.](/btcChecker1.jpg)
+![Identify all the features and permissions associated with the app.](/btcChecker2.jpg)<br>
+
 Description: The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
 
 ##Permissions
