@@ -6,7 +6,7 @@
 This is a GPS app I found on the Android app store called GPS test,
 I found the interface hard to look at with all the bright colors, there is too much popping and it's visually noisy. Also the buttons have no clear indication of what their intended purpose is, nor does most of the other data in the viewport. <br>
 
-![Good Interface Example 1of2](/Security1.jpg) <br>
+![Good Interface Example 1of2](/Security1.jpg)
 ![Good Interface Example 2of2](/Security2.jpg) <br>
 **Lorex Security App Good Interface** <br>
 This is my home security system app which I feel is a good example of a better interface design. It's easy on the eyes and it's fairly obvious what the buttons do that are not named and the main screen is kept with as few options available as to keep it clean looking and extra features are available from the navicon in the upper left. The color scheme is also consistent with good contrast with the text.
