@@ -59,7 +59,7 @@ This is my home security system app which I feel is a good example of a better i
 <br><br>
 
 
-#**ACTIVITY 0202** <br>
+#**ACTIVITY 0203** <br>
 For this activity I read the article about the principles of sound here [Principles of Sound](https://material.io/design/sound/about-sound.html#principles)
 where the topic goes over how sound can provide positive feedback for a product.<br>
 
