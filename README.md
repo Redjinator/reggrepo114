@@ -36,7 +36,7 @@ This is my home security system app which I feel is a good example of a better i
 ![BTC Checker 1of2](/btcChecker1.jpg)<br>
 ![BTC Checker 2of2](/btcChecker2.jpg)<br>
 
-Description: The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
+**Description:** The app periodically updates prices of various crypto currencies from a number of exchanges.<br>
 
 #**Permissions**<br>
 - storage - Read contents of SD card.
@@ -57,7 +57,7 @@ Description: The app periodically updates prices of various crypto currencies fr
 
 
 #**ACTIVITY 0202** <br>
-For this activity I read the article about the principles of sound at [Sound](https://material.io/design/sound/about-sound.html#principles)
+For this activity I read the article about the principles of sound here [Principles of Sound](https://material.io/design/sound/about-sound.html#principles)
 where the topic goes over how sound can provide positive feedback for a product.<br>
 
 With provided examples the article discusses how different sounds can influence the emotional state of the user which makes sense, if colors can do it, then surely sound can as well. It's not something I've really put a lot of time into before reading the article as my own projects have not required any sound up to this point.
@@ -68,3 +68,38 @@ With provided examples the article discusses how different sounds can influence 
 - Voice
 
 While the article continues to describe the sound types in more detail, it basically approaches sound much in the same that other visual design principles are, and that is to use sound to tell a story,  provide hierarchy, and increase the efficiency of communication and information in an intuitive way. 
+<br>
+
+
+
+
+
+#**ACTIVITY 0301** <br>
+**Description:** Try to identify all the activities or screens in a frequently used app and attempt to catagorize them in a meaningful way.
+
+**App Choosen:** Bitcoin Checker<br>
+![Bitcoin Checker App](/btcChecker_3screens.png)<br>
+
+There are 3 screen/activities for this app.<br>
+- The first screen is where you view your list of coins and their current prices. This is intented to be the main activity where you'll spend most of your time. 
+- Plus button at the top of the 1st screen will bring you to the second activity/screen where you can choose from a list of exchanges.
+- Once you've choosen an exchange on the 2nd screen, your brought to a 3rd screen where you can decide which coin from that exchange will be in the tracking list and what currency it will be paired with. Alarms and notifications can also be configured on this screen.<br>
+
+
+#ACTIVITY 0302** <br>
+**Description:** Identify common android event types from chapter 3.2 that may be present in my app of choice.
+
+**App Choosen:** Bitcoin Checker<br>
+
+**The following events are those I am fairly confident are part of the app.**
+- onLongClick()	
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
+
+
